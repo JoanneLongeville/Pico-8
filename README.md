@@ -1,6 +1,6 @@
 # Puissance 4 revisité sur Pico-8
 
-* [Projet de groupe](https://github.com/adatechschool/projet-collectif---pico-8-puissance4) de 2 semaines avec [Jérémy](https://github.com/jeremyzynger) et [Nolwen](https://github.com/NolwenMaj) à [Ada Tech School](https://github.com/adatechschool), Octobre 2022.*
+*[Projet de groupe](https://github.com/adatechschool/projet-collectif---pico-8-puissance4) de 2 semaines avec [Jérémy](https://github.com/jeremyzynger) et [Nolwen](https://github.com/NolwenMaj) à [Ada Tech School](https://github.com/adatechschool), Octobre 2022.*
 
 ## Description:
 
